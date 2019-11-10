@@ -16,17 +16,13 @@ const whereCanIPark = (spots, vehicle) => {
     };
 
     const spot = {
-        X: '', // X being the column
-        Y: '', // Y being the row
         pair: false,
     };
 
-    if (spots.length > 0) {
-        spot.Y = spots.findIndex(row => row.some(col => col == col.toUpperCase()));
-        if (spot.Y >= 0) {
-            spot.X = spots[spot.Y].findIndex(col => vehicleSize[vehicle].includes(col));
-            if (spot.X >= 0) {
-                spot.pair = [spot.X, spot.Y];
+    for (let i = 0; i < spots.length; i++) {
+        for (let j = 0; j < spots[i].length; j++) {
+            if (vehicleSize[vehicle].includes(spots[i][j])) {
+                return [j, i];
             }
         }
     }
