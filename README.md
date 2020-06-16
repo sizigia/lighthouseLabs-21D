@@ -15,7 +15,7 @@ That’s why Lighthouse Labs created the 21-Day Coding Challenge. In just 15-30 
 ## Technologies
 
 - JavaScript
-- Jasmine
+- [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 
 ## Challenges
 [Challenge #1 - Door to Door](https://www.faustinamaria.com/lighthouse-labs-1)
