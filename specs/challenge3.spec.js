@@ -1,4 +1,4 @@
-const castVote = require('./challenge3')
+const castVote = require('../challenges/challenge3')
 
 describe('Challenge 3:', () => {
     it('The castVote function should return an array.', () => {

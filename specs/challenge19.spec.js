@@ -1,4 +1,4 @@
-const pumpkinSpice = require('./challenge19');
+const pumpkinSpice = require('../challenges/challenge19');
 
 describe('Challenge 19 -', () => {
     const parameters = [

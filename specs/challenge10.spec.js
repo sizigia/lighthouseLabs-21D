@@ -1,4 +1,4 @@
-const whereCanIPark = require('./challenge10')
+const whereCanIPark = require('../challenges/challenge10')
 
 describe('Challenge 10:', () => {
     let spots = [];

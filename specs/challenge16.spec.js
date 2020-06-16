@@ -1,4 +1,4 @@
-const festivalColours = require('./challenge16');
+const festivalColours = require('../challenges/challenge16');
 
 describe('Challenge 16 -', () => {
     const color1 = 100;

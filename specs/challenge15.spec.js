@@ -1,4 +1,4 @@
-const finalPosition = require('./challenge15');
+const finalPosition = require('../challenges/challenge15');
 
 describe('Challenge 15 -', () => {
     const parameters = [

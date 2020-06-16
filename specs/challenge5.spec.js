@@ -1,4 +1,4 @@
-const chooseStations = require('./challenge5')
+const chooseStations = require('../challenges/challenge5')
 
 describe('Challenge 5:', () => {
     const stations = [

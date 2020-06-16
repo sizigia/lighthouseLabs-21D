@@ -1,4 +1,4 @@
-const registerToVote = require('./challenge4')
+const registerToVote = require('../challenges/challenge4')
 
 describe('Challenge 4:', () => {
     const name = 'Bradley';

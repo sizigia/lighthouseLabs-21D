@@ -1,4 +1,4 @@
-const voterTurnout = require('./challenge6')
+const voterTurnout = require('../challenges/challenge6')
 
 describe('Challenge 6:', () => {
     it('If the voter ids array and voter signatures array are not the same length, return false', () => {

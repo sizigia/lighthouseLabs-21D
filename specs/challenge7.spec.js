@@ -1,4 +1,4 @@
-const termTopics = require('./challenge7')
+const termTopics = require('../challenges/challenge7')
 
 describe('Challenge 7:', () => {
     const interviews = [

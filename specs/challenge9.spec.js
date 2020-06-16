@@ -1,4 +1,4 @@
-const carPassing = require('./challenge9')
+const carPassing = require('../challenges/challenge9')
 
 describe('Challenge 9:', () => {
     var cars = [];

@@ -1,4 +1,4 @@
-const f = require('./challenge20');
+const f = require('../challenges/challenge20');
 const sphereVolume = f.sphereVolume;
 const coneVolume = f.coneVolume;
 const prismVolume = f.prismVolume;

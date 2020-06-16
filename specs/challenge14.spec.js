@@ -1,4 +1,4 @@
-const dynamicPricing = require('./challenge14');
+const dynamicPricing = require('../challenges/challenge14');
 
 describe('Challenge 14 -', () => {
     parameters = [

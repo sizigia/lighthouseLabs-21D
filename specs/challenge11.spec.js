@@ -1,4 +1,4 @@
-const busTimes = require('./challenge11');
+const busTimes = require('../challenges/challenge11');
 
 describe('Challenge 11:', () => {
     let buses = {};

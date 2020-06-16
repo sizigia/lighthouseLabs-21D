@@ -1,4 +1,4 @@
-const f = require('./challenge18');
+const f = require('../challenges/challenge18');
 const countTickets = f.countTickets;
 const bestOdds = f.bestOdds;
 

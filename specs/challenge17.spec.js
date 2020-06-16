@@ -1,4 +1,4 @@
-const judgeVegetable = require('./challenge17');
+const judgeVegetable = require('../challenges/challenge17');
 
 describe('Challenge 17 -', () => {
     const vegetables = [

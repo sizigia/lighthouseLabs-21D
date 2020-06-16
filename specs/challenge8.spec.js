@@ -1,4 +1,4 @@
-const smartGarbage = require('./challenge8')
+const smartGarbage = require('../challenges/challenge8')
 
 describe('Challenge 8:', () => {
     const bins = { waste: 4, recycling: 2, compost: 5 };

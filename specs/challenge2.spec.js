@@ -1,4 +1,4 @@
-const interviewAnswer = require('./challenge2')
+const interviewAnswer = require('../challenges/challenge2')
 
 describe('Challenge 2', () => {
 

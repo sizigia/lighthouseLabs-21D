@@ -1,4 +1,4 @@
-const f = require('./challenge13');
+const f = require('../challenges/challenge13');
 const lightsOn = f.lightsOn;
 const lightsOff = f.lightsOff;
 const toggleLights = f.toggleLights;

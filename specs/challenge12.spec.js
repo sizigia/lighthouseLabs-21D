@@ -1,4 +1,4 @@
-const checkAir = require('./challenge12');
+const checkAir = require('../challenges/challenge12');
 
 describe('Challenge 12 -', () => {
 

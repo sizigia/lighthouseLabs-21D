@@ -1,4 +1,4 @@
-const chooseRecipe = require('./challenge21');
+const chooseRecipe = require('../challenges/challenge21');
 
 describe('Challenge 21 -', () => {
     const parameters = [
