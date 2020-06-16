@@ -18,6 +18,44 @@ That’s why Lighthouse Labs created the 21-Day Coding Challenge. In just 15-30 
 - Jasmine
 
 ## Challenges
-1. Challenge #1 - Door to Door
-2. Challenge #2 - Something to Talk About
-3. Challenge #3 - Securing the Vote
+[Challenge #1 - Door to Door](https://www.faustinamaria.com/lighthouse-labs-1)
+
+[Challenge #2 - Something to Talk About](https://www.faustinamaria.com/lighthouse-labs-2)
+
+[Challenge #3 - Securing the Vote](https://www.faustinamaria.com/lighthouse-labs-3)
+
+[Challenge #4 - This is How You Remind Me (To Register To Vote)](https://www.faustinamaria.com/lighthouse-labs-4)
+
+[Challenge #5 - Voting Station Calculation](https://www.faustinamaria.com/lighthouse-labs-5)
+
+[Challenge #6 - Turn Out For What](https://www.faustinamaria.com/lighthouse-labs-6)
+
+[Challenge #7 - You Choose, (You Don’t) Lose](https://www.faustinamaria.com/lighthouse-labs-7)
+
+[Challenge #8 - Trash to Treasure](https://www.faustinamaria.com/lighthouse-labs-8)
+
+[Challenge #9 - Driving Mayor Daisy](https://www.faustinamaria.com/lighthouse-labs-9)
+
+[Challenge #10 - SmartParking](https://www.faustinamaria.com/lighthouse-labs-10)
+
+[Challenge #11 - You Can’t Hurry Transit](https://www.faustinamaria.com/lighthouse-labs-11)
+
+[Challenge #12 - In the Air Tonight](https://www.faustinamaria.com/lighthouse-labs-12)
+
+[Challenge #13 - All of the Lights](https://www.faustinamaria.com/lighthouse-labs-13)
+
+[Challenge #14 - Ticket to Ride](https://www.faustinamaria.com/lighthouse-labs-14)
+
+[Challenge #15 - X Marks the Perfect Shot 📸](https://www.faustinamaria.com/lighthouse-labs-15)
+
+[Challenge #16 - In Living Colour](https://www.faustinamaria.com/lighthouse-labs-16)
+
+[Challenge #17 - We’re Rooting For You!](https://www.faustinamaria.com/lighthouse-labs-17)
+
+[Challenge #18 - In It to Win It](https://www.faustinamaria.com/lighthouse-labs-18)
+
+[Challenge #19 - Pumpkin Spice and Everything Nice](https://www.faustinamaria.com/lighthouse-labs-19)
+
+[Challenge #20 - Bouncy Castles](https://www.faustinamaria.com/lighthouse-labs-20)
+
+[Challenge #21 - The Great Codeville Bake-off](https://www.faustinamaria.com/lighthouse-labs-21)
