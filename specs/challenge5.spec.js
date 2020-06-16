@@ -10,7 +10,7 @@ describe('Challenge 5:', () => {
         expect(Array.isArray(chooseStations(stations))).toBe(true)
     });
     it('The chooseStations should return an array of strings.', () => {
-        expect(chooseStations(stations).every(name => typeof(name) == 'string')).toBe(true)
+        expect(chooseStations(stations).every(name => typeof (name) == 'string')).toBe(true)
     });
     it('The chooseStations should return only the appropriate stations.', () => {
         expect(chooseStations(stations)).toEqual(['Bright Lights Elementary', 'Moose Mountain Community Centre'])

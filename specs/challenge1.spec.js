@@ -1,4 +1,4 @@
-const doorToDoor = require('./challenge1')
+const doorToDoor = require('../challenges/challenge1')
 
 describe('Challenge 1', () => {
     const volunteers = [
